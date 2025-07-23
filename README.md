@@ -46,3 +46,7 @@ A plug-and-play skeleton for machine learning workflows that guarantees:
 git clone https://github.com/yourusername/MLAModelHub.git
 cd MLAModelHub
 ```
+
+---
+## A Note
+This is a personal project I am creating from code I'm actively working on. I am new to git and github, but this seemed like a fun project to learn it through. I am working through additional machine learning models (RandomForest, SVM, etc.). Plenty to do here and I plan to keep working on this (7/22/2025).
